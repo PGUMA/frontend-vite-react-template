@@ -19,5 +19,9 @@
     "@vitejs/plugin-react": "^4.2.1",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
+  },
+  "volta": {
+    "node": "20.11.0",
+    "npm": "10.4.0"
   }
 }
